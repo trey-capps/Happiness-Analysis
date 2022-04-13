@@ -12,6 +12,6 @@ train.csv -
 
 CODE
 ----
-data_cleaning.ipynb - Jupyter Notebook file that is used to clean the data and creates data_clean.csv
-eda_preprocess.ipynb - Jupyter Notebook file that is used for EDA and to create the train.csv and test.csv
-model_building.R - R file that contains the code for the model
+- data_cleaning.ipynb - Jupyter Notebook file that is used to clean the data and creates data_clean.csv
+- eda_preprocess.ipynb - Jupyter Notebook file that is used for EDA and to create the train.csv and test.csv
+- model_building.R - R file that contains the code for the model
