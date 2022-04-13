@@ -6,9 +6,9 @@ https://public.tableau.com/app/profile/trey.capps/viz/HappinessAnalysis_16267395
 DATA
 ----
 - 20XX.csv - Raw dataset for respective year
-- data_clean.csv - 
-- test.csv - 
-- train.csv - 
+- data_clean.csv - Cleaned data from data_cleaning.ipynb 
+- test.csv - used to train the model in model_building.R
+- train.csv - used to test the model in model_building.R
 
 CODE
 ----
